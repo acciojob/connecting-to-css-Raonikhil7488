@@ -5,6 +5,7 @@ header {
 }
 
 nav {
+	flex-direction:column;
     background-color: rgb(0, 0,0);
     padding: 10px;
 }
