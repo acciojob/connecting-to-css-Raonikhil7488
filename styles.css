@@ -12,6 +12,7 @@ nav {
 
 nav ul {
     list-style: none;
+	color: rgb(255, 255, 255);
     margin: 0;
     padding: 0;
     display: flex;
@@ -19,7 +20,7 @@ nav ul {
 }
 
 nav ul li a {
-    color: rgb(255, 255, 255);
+    color: white;
     text-decoration: none;
 }
 
